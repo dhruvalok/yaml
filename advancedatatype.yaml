@@ -1,0 +1,39 @@
+---
+student: !!seq
+ - marks
+ - name
+ - roll no
+#like this also you can write
+Cities: [new delhi, mumbai]
+---
+#sparse sequence
+sparse_seq:
+ - hey
+ - how
+ - 
+ - null
+ - sup
+---
+Nested_sequence:
+ - 
+  - mango
+  - banana
+  - apple
+ - 
+  - marks
+  - name
+  - roll no
+  - date
+---
+# Maps
+!!map
+#nested mappings: map with in a map
+name : Alok
+role:
+ age: 32
+ job: student
+---
+#same as
+name: Alok
+role: {age: 22, Job: student}
+...
