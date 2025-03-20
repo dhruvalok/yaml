@@ -1,0 +1,23 @@
+---
+myself : Alok Kumar
+Fruit : apple
+Job : SRE
+
+# if you want to write a multiple line
+
+bio : |
+ Hey, My name is Alok Kumar
+ and I am a DevOps Engineer
+
+#Write a single line in multiple line
+
+message : >
+ This will 
+ all be a 
+ Single line
+#same as this
+message : This will be a single line
+number : 5437
+marks : 98.75
+booleanvalue: No # n,N,False,false,FALSE
+#same for True ==> yes, y, Y, YES

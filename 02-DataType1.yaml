@@ -1,0 +1,28 @@
+---
+Zero : !!int 0
+PositiveNum : !!int 45
+NegativeNum : !!int -45
+binaryNum : !!int 0b11001
+OctalNum : !!int 0o6572
+hexa : !!int 0x45
+commaValue : !!int +540_000 # 540,000
+exponentialNum: 8787E878
+
+#float
+marks : !!float 96.89
+inifinte: !!float .inf
+NotaNull : !!float .nan
+
+#boolean
+booleanValue : !!bool False
+
+#string
+message: !!str this message
+
+#Null or Num
+Surname: !!null null #null NULL
+~: This is Null Key
+#date and time
+date: !!timestamp 2025-03-12
+India Time : 2025-02-27T02:23:20 +5:30
+no time zone : 2025-02-27T02:23:20
