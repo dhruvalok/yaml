@@ -1,0 +1,23 @@
+---
+"apple" : "I am red fruit"
+1 : This is just number
+
+#list
+Fruit:
+ - apple
+ - mango
+ - banana
+ - Apple
+
+#Block Style
+Cities:
+
+ - new Delhi
+ - Mumbai
+ - Bnagalore
+
+---
+Cities: [New Delhi, Mumbai, Bangalore]
+---
+{mango: "I am yellow", age:30}
+...
