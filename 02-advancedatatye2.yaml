@@ -1,0 +1,29 @@
+---
+#pairs datatype
+#!!pairs
+pair example: !!pairs
+  - job: student
+  - job: software Engineer
+---
+#same as 
+pair example: !!pairs [job: student, job: SRE]
+
+#set datatype
+#!!set
+name: !!set
+ ? Alok
+ ? kumal
+ ? Rahul
+---
+#Dictionary datatype
+#!!omap
+people: !!omap
+  - Alok:
+      name: Alok Kumar
+      age: 23
+      hight: 5.9
+  - Rahul:
+      name: Rahul ok
+      age: 99
+      hight: 2.3
+...
