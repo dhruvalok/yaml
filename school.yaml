@@ -1,0 +1,13 @@
+---
+school:
+- name: Delhi Public School
+- principal: AK Singh
+  student_1:
+  - rollno: 12
+  - name: Alok
+  - Marks: 97
+  student_2:
+  - name: Neha
+  - rollno: 13
+  - Marks: 98
+...
