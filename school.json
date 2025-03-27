@@ -1,0 +1,21 @@
+{
+    "school": [
+        {
+            "name" : "Delhi Public School",
+            "Principal" : "Ak Singh",
+            "Student" : [
+                {
+                    "name" : "Alok",
+                    "rollno" : 12,
+                    "Marks" : 97
+                },
+                {
+                    "name" : "Neha",
+                    "rollno" : 13,
+                    "Marks" : 97
+                }
+            ]
+
+        }
+    ]
+}

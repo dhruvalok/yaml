@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<school name="Delhi Public School" principal="AK">
+    <student>
+        <student1>
+             <roll_no> 23 </roll_no>
+             <name> Alok </name>
+             <marks> 97 </marks>
+        </student1>
+        <student2>
+             <roll_no> 24 </roll_no>
+             <name> Neha </name>
+             <marks> 96 </marks>
+        </student2>
+    </student>
+</school>
